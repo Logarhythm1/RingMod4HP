@@ -3,12 +3,11 @@ CC-By-NC 4.0, 2024 (Non-commercial use permitted)
 
 An AD633-based Ring Modulator in Eurorack format (4HP)
 
+This is based on a design by Roman Sowa, who has kindly allowed me to share this implementation for anyone to build.
+
 ![Built 1.0 Module Front](https://github.com/Logarhythm1/RingMod4HP/blob/main/images/RingMod%201.0%20front.png)
 
-
-This is based on a design by Roman Sowa, who has kindly allowed me to share this layout here.
-
-It's a great, clean-sounding ring modulator featuring the AD633 IC.
+It's a great, clean-sounding ring modulator featuring the excellent AD633 IC.
 The board is a pretty simple build, with mostly 0603 components. Two footprints are provided for the AD633 IC, and you should choose either DIP or soic package to place. No BOM is provided but it's pretty easy to see what's needed from the schematic. The specific hardware needed is:
 
 - 3 Thonkiconn jacks
